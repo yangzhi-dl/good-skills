@@ -1,0 +1,2 @@
+# 记录一些好用的skill
+使用方式，下载相关skill到本地，然后让Claude或者Codex等其它agent安装这个skill即可。
